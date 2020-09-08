@@ -4,7 +4,7 @@
     "occupation": "Computer vision, Deep learning, Machine learning && Full stack Developer",
     "description": "",
     "image": "aayush.jpg",
-    "bio": "I'm a Machine Learning and Deep Learning enthusiastic. I love to code in Python and try to solve real-world problems regularly using ML and Deep Learning.Also like to work as fullstack developer",
+    "bio": "I'm a Machine Learning,Computer vision and Deep Learning enthusiastic. I love to code in Python and JavaScript.Try to solve real-world problems regularly using ML and Deep Learning. Also like to work as fullstack developer.",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "rai.aayush2000@gmail.com",
     "phone": "+91 9893868931",
@@ -14,8 +14,8 @@
       "state": "Madhya Pradesh",
       "zip": "453001"
     },
-    "website": "",
-    "resumedownload": "",
+    "website": "https://drive.google.com/file/d/1Y2Jc8IDhSf5p_O0UiSOcvk-CjsWnR1G7/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1Y2Jc8IDhSf5p_O0UiSOcvk-CjsWnR1G7/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Medicaps University",
@@ -65,7 +65,16 @@
         {
         "name": "Computer Vision",
         "level": "75%"
+      }, 
+      {
+        "name": "Machine learning",
+        "level": "75%"
       },
+   {
+        "name": "Deep learning",
+        "level": "75%"
+      },
+       
         {
         "name": "OpenCv",
         "level": "75%"
@@ -86,15 +95,22 @@
         "name": "JavaScript",
         "level": "40%"
       },
-      {
+       {
         "name": "Git",
         "level": "40%"
+      },
+      {
+        "name": "React",
+        "level": "30%"
       },
        {
         "name": "Flutter",
         "level": "30%"
+      },
+   {
+        "name": "Firebase",
+        "level": "30%"
       }
-
     ]
   },
   "portfolio": {
@@ -112,11 +128,18 @@
         "url": "https://www.youtube.com/watch?v=-_l3ULP40Sg"
       },
        {
-        "title": "Trex_runner_v2",
+        "title": "Trex runner",
         "category": "It's automatic play online game name t-rex Using Deep learning,in real time.",
         "image": "trex.png",
         "url": "https://www.youtube.com/watch?v=X39QjDOQr8M"
+      },
+       {
+        "title": "Todo List",
+        "category": "Build Todo web app using React and De",
+        "image": "todo.png",
+        "url": "https://www.youtube.com/watch?v=6I7HE94ev9U"
       }
+
     ]
   },
   "testimonials": {
