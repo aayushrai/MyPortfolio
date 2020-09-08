@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Aayush Rai",
+    "occupation": "Computer vision, Deep learning, Machine learning && Full stack Developer",
+    "description": "",
+    "image": "aayush.jpg",
+    "bio": "I'm a Machine Learning and Deep Learning enthusiastic. I love to code in Python and try to solve real-world problems regularly using ML and Deep Learning.Also like to work as fullstack developer",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "rai.aayush2000@gmail.com",
+    "phone": "+91 9893868931",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "447 Machal",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "zip": "453001"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/aayush.rai.507",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/aayush-rai-092819174/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/aayushrai_2000/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/aayushrai/",
         "className": "fa fa-github"
       }
     ]
@@ -43,96 +43,88 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Medicaps University",
+        "degree": "Bachelor of technology in computer science",
+        "graduated": "May 2021",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "TDB.ai",
+        "title": "Computer Vision Intern",
+        "years": "JUN 2020 - Present",
+        "description": "I have been working for the company for 8 months and completed several projects in deep learning, computer vision and django. I work on Real time object detection, facial recognition, pose estimation,faceswap,intrusion detection, fire detection, action recognition. Also learn integration of various deep learning and computer vision models with django. Learn how to Increase models speed using differect techniques like multiprocessing and multithreading."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "100%"
       },
-      {
-        "name": "CSS",
-        "level": "95%"
+        {
+        "name": "Computer Vision",
+        "level": "75%"
       },
-      {
-        "name": "Git",
+        {
+        "name": "OpenCv",
+        "level": "75%"
+      },
+        {
+        "name": "NLP",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Django",
+        "level": "60%"
+      },
+        {
+        "name": "Arduino",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "JavaScript",
+        "level": "40%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Git",
+        "level": "40%"
+      },
+       {
+        "name": "Flutter",
+        "level": "30%"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "COVID 19 MASK RECOGNITION",
+        "category": "Recognise mask using computer vision.",
+        "image": "mask.png",
+        "url": "https://www.youtube.com/watch?v=L-93-e2AROc"
       },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+       {
+        "title": "Automatic image labeling",
+        "category": "Automatic image labeling using computer vision",
+        "image": "labeling.png",
+        "url": "https://www.youtube.com/watch?v=-_l3ULP40Sg"
       },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+       {
+        "title": "Trex_runner_v2",
+        "category": "It's automatic play online game name t-rex Using Deep learning,in real time.",
+        "image": "trex.png",
+        "url": "https://www.youtube.com/watch?v=X39QjDOQr8M"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Great computer vision developer I have ever hired. Dedicated to his work, honest, come up with great ideas. Not only he worked for client project, but also help us to make a automated AI product for CCTV automatic monitoring. I strongly recommend him and wish him luck for his future endeavors.",
+        "user": "Deepanshu Bhinda"
+
       }
     ]
   }

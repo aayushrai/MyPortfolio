@@ -1,7 +1,7 @@
 {
-  "name": "personalportfolio",
+  "name": "MyPortfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
@@ -26,5 +26,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/aayushrai/MyPortfolio.git",
+  "author": "aayushrai <www.aayushrai@gmail.com>",
+  "license": "MIT"
 }
